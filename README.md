@@ -31,7 +31,7 @@ Skills I learned in my projects
 
 | Skill                                            | Associated Project         |
 |--------------------------------------------------|----------------------------|
-| Coal price forecasting using various approaches, model based, data driven and state-of-the-art models like TimesNet | <a href="https://github.com/maximuu19/">Coal Prices Forecasting using Model Based Approach, Data Driven Approach and NeuralForecast( TimesNet, iTransformer )</a>|
+| Coal price forecasting using various approaches, model based, data driven and state-of-the-art models like TimesNet | <a href="https://github.com/kaustavsaloi/Coal_price_forecasting-.git">Coal Prices Forecasting using Model Based Approach, Data Driven Approach and NeuralForecast( TimesNet, iTransformer )</a>|
 
 ## Tools
 - Python
